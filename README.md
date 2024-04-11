@@ -48,7 +48,6 @@ The challenge is divided into four steps:
 - Create a new repository named `prophet-challenge`.
 - Clone the repository to your local machine.
 - Download and add the provided starter files.
-- Use Google Colab for completing the challenge.
 - After completion, upload your notebook file to the repository.
 
 ## Conclusion
